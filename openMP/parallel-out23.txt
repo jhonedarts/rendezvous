@@ -1,0 +1,9 @@
+
+Linha - Tempo de execução
+
+
+Linha 1: 3129.100663 segundos
+
+Linha 2: 3123.297450 segundos
+
+O Rendezvous-Serial foi executado em: 6252.398143 segundos
